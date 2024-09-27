@@ -2,7 +2,7 @@
 
 I am a passionate Problem solving of real word . My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<fThSmartSneha>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![fThSmartSneha's Stats](https://github-readme-stats.vercel.app/api?username=fThSmartSneha&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
